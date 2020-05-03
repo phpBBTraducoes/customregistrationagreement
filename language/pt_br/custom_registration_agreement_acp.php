@@ -19,7 +19,7 @@ if (empty($lang) || !is_array($lang))
 }
 
 $lang = array_merge($lang, array(
-	'ENABLE_CUSTOM_AGREEMENT'					=> 'Ativar Contrato de registro personalizado',
+	'ENABLE_CUSTOM_AGREEMENT'					=> 'Ativar Contrato de Registro Personalizado',
 	'ENABLE_CUSTOM_AGREEMENT_EXPLAIN'			=> 'Se estiver desativado, a mensagem padrão será exibida.',
 
 	'CUSTOM_AGREEMENT'							=> 'Contrato de registro personalizado',
